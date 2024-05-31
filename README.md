@@ -6,7 +6,7 @@ Esse projeto é um aplicativo Android Nativo desenvolvido com a linguagem de pro
 https://github.com/AndersonPS94/novaCalculadoraIMC/assets/69472748/4776458c-b51f-44ac-9e2e-ca6ff9616697
 
 ## Tecnologias
-= Activity
+- Activity
 - Intent
 - Splash Screen
 - ViewGroups
