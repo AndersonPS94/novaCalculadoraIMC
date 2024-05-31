@@ -1,12 +1,22 @@
 # Calculadora IMC
-Desc
+Esse projeto é um aplicativo Android Nativo desenvolvido com a linguagem de programação Kotlin, tem como principal funcionalidade, fazer o cálculo do IMC e mostrar o resultado na tela seguinte.
 
-## :camera_flash: Screenshots
-<!-- You can add more screenshots here if you like -->
-Screenshots
+## :camera_flash: Screen record
+
+https://github.com/AndersonPS94/novaCalculadoraIMC/assets/69472748/4776458c-b51f-44ac-9e2e-ca6ff9616697
 
 ## Tecnologias
-Techs
+= Activity
+- Intent
+- Splash Screen
+- ViewGroups
+   - LinearLayout
+   - ConstraintLayout
+- Views
+  - ImageView
+  - TextView
+  - EditText
+  - Button
 
 
 ## License
