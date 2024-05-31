@@ -14,7 +14,7 @@ class ResultActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         enableEdgeToEdge()
         setContentView(R.layout.activity_result)
-
+        enableEdgeToEdge()
         val result = intent.getFloatExtra(KEY_RESULT_IMC, 0f)
 
         val tvResult = findViewById<TextView>(R.id.tv_result)
@@ -35,5 +35,7 @@ class ResultActivity : AppCompatActivity() {
             }
 
         tvClassificacao.text = classificacao
+
+
     }
 }
